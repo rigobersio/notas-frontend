@@ -1,0 +1,14 @@
+h1,
+h2,
+p {
+  color: chocolate;
+  font-size: 15pix;
+  font-family: 'Edu TAS Beginner', cursive;
+}
+
+.marco-gato {
+  width: 500px;
+  border-width: 10px;
+  border-color: blueviolet;
+  border-style: solid double dotted none;
+}
